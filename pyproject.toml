@@ -1,0 +1,10 @@
+[project]
+name = "advanced-data-mining-course"
+version = "0.1.0"
+description = "FHWN Advanced Data Mining: reproducible teaching notebooks"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "numpy>=2,<3", "pandas>=2.2,<3", "matplotlib>=3.9,<4",
+  "scikit-learn>=1.6,<1.8", "jupyterlab>=4,<5", "ipykernel>=6,<8",
+  "nbclient>=0.10,<0.11", "nbformat>=5.10,<6", "openpyxl>=3.1,<4"
+]

@@ -1,0 +1,17 @@
+{
+  "source": "https://archive.ics.uci.edu/dataset/352/online+retail",
+  "citation": "Chen, D. (2015). Online Retail. UCI. https://doi.org/10.24432/C5BW33",
+  "license": "CC BY 4.0",
+  "download_url": "https://archive.ics.uci.edu/static/public/352/online+retail.zip",
+  "source_zip_sha256": "f5385cbb54bbebf7196389109c6b0621faab0c304e3702548165e71c84aede8b",
+  "extract_sha256": "8503a734cd203ed63df3292c2a12d0b803206dc18ed67a7dc83664fd307d96d8",
+  "seed": 42,
+  "source_rows": 541909,
+  "extract_rows": 44324,
+  "known_customers": 400,
+  "anonymous_invoices": 130,
+  "date_min": "2010-12-01 11:58:00",
+  "date_max": "2011-12-09 10:20:00",
+  "sampling": "400 uniformly sampled non-null customer IDs, all their source rows; plus 10 anonymous invoices per calendar month, all their anonymous rows; original row order preserved. No cleaning or synthetic corruption applied.",
+  "limitations": "Not representative at row/invoice level; known and anonymous groups have different inclusion mechanisms. Observed history is limited to the source window. Partial December 2011. No population revenue estimates or missingness prevalence claims."
+}
