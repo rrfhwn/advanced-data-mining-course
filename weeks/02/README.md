@@ -6,4 +6,4 @@ Review Week 1's policy note and the observation-unit distinction. This notebook 
 
 Follow “same customers, different stories”: judge similarity, follow actual customer profiles through neighbor and group comparisons, then try to break a segmentation. Choose between comparing purchase value and purchase rhythm in Investigation 1, and between representation and sampling sensitivity in Investigation 2. Inspect changed peers as well as scores, challenge unsupported group names, and finish with an evidence table and short decision memo. All work here is formative; no new graded assignment is introduced.
 
-The reading path covers PCA, clustering assumptions, and projection pitfalls. CPU and Colab are supported.
+The reading path starts with visual, interactive explanations of PCA and k-means, followed by Distill's explanation of t-SNE projection pitfalls. Each has a focused exploration question; library documentation is an optional technical reference. CPU and Colab are supported.
