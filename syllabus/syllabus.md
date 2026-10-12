@@ -1,6 +1,24 @@
 # Advanced Data Mining
 
-This Master-level course builds on Neural Architectures and Representation Learning. Materials combine conceptual explanations, visual demonstrations, guided Python experiments, and critical interpretation. The teaching schedule and assignment deadlines will be announced separately.
+This Master-level course has eleven lectures and builds on Neural Architectures and Representation Learning. Materials combine conceptual explanations, visual demonstrations, guided Python experiments, and critical interpretation. Calendar dates and assignment deadlines will be announced separately.
+
+## Course sequence
+
+| Lecture | Focus |
+|---|---|
+| 1 | Data quality, exploratory analysis, and defensible evidence |
+| 2 | Similarity, representations, clustering, and stable patterns |
+| 3 | Anomaly detection: unusual observations versus data errors |
+| 4 | Association rules: transactions, frequent itemsets, and rule metrics |
+| 5 | Reliable rules: sensitivity, held-out evidence, and recommendations |
+| 6 | Text mining: TF-IDF, document similarity, and topic discovery |
+| 7 | Embedding-based text mining and semantic retrieval |
+| 8 | Graph construction, centrality, and PageRank |
+| 9 | Communities and stability in graphs |
+| 10 | Scalable search and modern representation-based mining |
+| 11 | Evidence clinic, method selection, and synthesis |
+
+Materials are supplied progressively. Lecture numbers describe the sequence, not necessarily consecutive calendar weeks. The final lecture brings the methods together: challenge a finding, revise its interpretation, and explain a defensible recommendation. The [course introduction](START_HERE_FROM_REPRESENTATIONS_TO_DISCOVERY.md) explains the connection to representation learning.
 
 ## Intendierte Lernergebnisse auf Lehrveranstaltungsebene
 
