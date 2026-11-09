@@ -9,6 +9,7 @@ Master-level course of eleven lectures on discovering and critically evaluating 
 | 1 | [Data quality and knowledge discovery](weeks/01/Week_01_Data_Quality_Knowledge_Discovery.ipynb) | Read the dataset description; review pandas filtering and grouping. |
 | 2 | [Similarity, clustering, and stable patterns](weeks/02/Week_02_Similarity_Clustering_Stable_Patterns.ipynb) | Review Week 1's policy note and the difference between invoice lines and customers. |
 | 3 | [Anomalies and review decisions](weeks/03/Week_03_Anomalies_Review_Decisions.ipynb) | Review RFM definitions, representation choices, and the difference between a rare case and a verified error. |
+| 4 | [Association rules beyond popularity](weeks/04/Week_04_Association_Rules_Beyond_Popularity.ipynb) | Review observation units and baselines; no earlier notebook outputs are required. |
 
 ## Local setup
 
@@ -28,11 +29,12 @@ Click your session below, connect to a CPU runtime, and choose **Runtime → Run
 - [Open Week 1 in Colab](https://colab.research.google.com/github/rrfhwn/advanced-data-mining-course/blob/main/weeks/01/Week_01_Data_Quality_Knowledge_Discovery.ipynb)
 - [Open Week 2 in Colab](https://colab.research.google.com/github/rrfhwn/advanced-data-mining-course/blob/main/weeks/02/Week_02_Similarity_Clustering_Stable_Patterns.ipynb)
 - [Open Week 3 in Colab](https://colab.research.google.com/github/rrfhwn/advanced-data-mining-course/blob/main/weeks/03/Week_03_Anomalies_Review_Decisions.ipynb)
+- [Open Week 4 in Colab](https://colab.research.google.com/github/rrfhwn/advanced-data-mining-course/blob/main/weeks/04/Week_04_Association_Rules_Beyond_Popularity.ipynb)
 
 ## Study and assessment
 
 Each notebook includes a core classroom path, guided experiments, a short reading path, and optional extensions. Weekly TODOs and reports are formative preparation, not additional graded assignments. Four practical assignments contribute 25% each; the overall passing score is 60%. A [draft A1 brief](weeks/03/Assignment_01_Data_Readiness.md) consolidates the initial lectures; use the instructor's confirmed release instructions and deadline, not a draft planning window. Later briefs will be supplied progressively. See the [syllabus](syllabus/syllabus.md).
 
-Weeks 1–3 alternate three 10–15-minute reading-and-reflection windows with independent experiments. Attempt the written checkpoints before opening their self-checks. Choose one route in each practical investigation; the other route is an extension. The explanations are self-contained, so external reading links are for further study.
+Weeks 1–4 alternate three 10–15-minute reading-and-reflection windows with independent experiments. Attempt the written checkpoints before opening their self-checks. Choose one route in each practical investigation; the other route is an extension. The explanations are self-contained, so external reading links are for further study. Week 4 introduces no new assessed submission; use only explicitly released briefs for assignment requirements.
 
 The supplied retail data is an attributed adaptation under CC BY 4.0. See [data provenance and limitations](data/README.md). Always distinguish observations from interpretations, and preserve the assumptions used to obtain a result.
