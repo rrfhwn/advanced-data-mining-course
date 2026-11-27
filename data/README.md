@@ -1,5 +1,7 @@
 # Retail teaching extract
 
+For the separate text/graph case introduced in Week 6, see the [Wikipedia corpus guide](WIKIPEDIA_CORPUS.md). Its provenance and CC BY-SA license are independent of the retail extract below.
+
 **Source:** Chen, D. (2015). *Online Retail*. UCI Machine Learning Repository. [Dataset](https://archive.ics.uci.edu/dataset/352/online+retail), [DOI](https://doi.org/10.24432/C5BW33). Licensed by UCI under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 **Adaptation:** the course authors selected customer/invoice records and converted the spreadsheet to compressed CSV. The source dataset contains 541,909 invoice lines. The supplied extract contains **44,324 rows**, 400 non-null customer IDs, and 130 sampled anonymous invoices. Dates run from 2010-12-01 to 2011-12-09. No artificial defects were inserted; no cleaning was applied during extraction. Synthetic tables inside the notebooks are explicitly separate teaching examples.

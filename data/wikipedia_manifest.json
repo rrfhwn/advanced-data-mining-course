@@ -1,0 +1,29 @@
+{
+  "version": "wikipedia-teaching-2026-11-27",
+  "retrieved_at_utc": "2026-11-26T23:37:18.128415+00:00",
+  "source_api": "https://en.wikipedia.org/w/api.php",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors; per-document original and revision URLs in the data",
+  "adaptation": "Selected introductions; plain-text extraction; whitespace normalization; first 500 words maximum; selected full-article canonical-title links without self-links.",
+  "documents": 120,
+  "words": 40744,
+  "observed_directed_links": 1600,
+  "compressed_bytes": 111900,
+  "sha256": "8cd7e9bdcec080488f264832c15dee171729cc52df84b442eb3838ca33932de6",
+  "selection": {
+    "space": "Solar System|Sun|Mercury (planet)|Venus|Earth|Mars|Jupiter|Saturn|Uranus|Neptune|Planet|Exoplanet|Star|Galaxy|Black hole|Supernova|Gravitation|Orbit|Space exploration|Satellite",
+    "energy": "Climate change|Sea level rise|Greenhouse effect|Greenhouse gas|Carbon dioxide|Carbon cycle|Renewable energy|Solar energy|Wind power|Hydroelectricity|Geothermal energy|Nuclear power|Energy storage|Electric battery|Fossil fuel|Coal|Petroleum|Photosynthesis|Electric vehicle|Electricity",
+    "life": "Ecology|Ecosystem|Biodiversity|Food web|Species|Evolution|Natural selection|Adaptation|Genetics|DNA|RNA|Cell (biology)|Neuron|Brain|Nervous system|Immune system|Antibiotic|Vaccine|Virus|Bacteria",
+    "computing": "Computer|Algorithm|Data structure|Database|Computer network|Internet|World Wide Web|Search engine|Information retrieval|Machine learning|Artificial intelligence|Neural network (machine learning)|Deep learning|Data mining|Graph theory|Social network|Information theory|Cryptography|Computer security|Computer virus",
+    "cities": "Urban planning|Public transport|Traffic congestion|Bicycle|City|Urbanization|Transport|Rail transport|High-speed rail|Bus|Tram|Rapid transit|Walkability|Cycling infrastructure|Air pollution|Noise pollution|Green building|Sustainable city|Water supply|Waste management",
+    "economy": "Economics|Supply and demand|Inflation|Interest rate|Central bank|Unemployment|Gross domestic product|International trade|Globalization|Market economy|Competition (economics)|Monopoly|Public good (economics)|Externality|Tax|Carbon tax|Emissions trading|Renewable energy commercialization|Circular economy|Recycling"
+  },
+  "limits": [
+    "Curated topic coverage is not representative; selection themes are not ground-truth classes.",
+    "Only introductions, possibly truncated; no images or full article bodies.",
+    "Revision metadata accompanies the live extract request; live refreshes can differ from the bundled snapshot.",
+    "Links describe full articles at acquisition, not only retained text. Redirect aliases and external targets are not exhaustively resolved.",
+    "Observed links do not establish semantic agreement, causation, or complete network coverage."
+  ]
+}
